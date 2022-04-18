@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "emotes.json",
+    "gawrguraa.json",
+    "catgirlmemes.json",
+    "sakuya.json",
+    "basil.json",
+    "ajatt.json",
+    "sex.json",
+    "DEFENDER.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
