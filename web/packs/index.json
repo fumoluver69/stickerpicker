@@ -7,7 +7,10 @@
     "basil.json",
     "ajatt.json",
     "sex.json",
-    "DEFENDER.json"
+    "DEFENDER.json",
+    "nachod.json",
+    "trollfaec.json",
+    "rikakan.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
